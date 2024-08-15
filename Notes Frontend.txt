@@ -1,0 +1,41 @@
+
+This video provide sample project in angular 17 standalone temple and covering complete access related functionalities.
+
+It covers below topics
+=====================
+1, User Registration with OTP validation
+2, User Login & JWT Token handling
+3, Dynamic menu creation by role access
+4, Password handling (Reset & forget)
+5,  Role based authentication
+6,  Admin screen (handling user & role based access)
+
+Technology used & concepts covered
+===============================
+1,  API -  Dot Net Core 7.0 Web API
+2,  UI – Angular 17 Standalone template
+3,  ALERT – NGX Toaster
+4,  STATE MANGEMENT – Angular Signals
+5,  DESIGN – Material UI
+
+GitHub Source code link
+=====================
+https://github.com/nihira2020/angular...
+
+
+API used in this video
+====================
+API development video link
+---------------------------------------------
+     • .NET 7 Web API Examples for beginners...  
+
+API GitHub Source code Link
+=====================
+https://github.com/nihira2020/WEBAPI_...
+
+
+Database script Link
+=================
+https://github.com/nihira2020/Databas...
+
+

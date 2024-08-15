@@ -1,0 +1,29 @@
+NET 7 Web API Examples - user & access management system  it covers below topics
+
+  *  User Registration with validation & OTP Verification
+
+  *   User Activation and Deactivation
+
+  *   Reset password by validating password history
+
+  *   User Role assignment
+
+  *   Forget password with OTP validation
+
+ *  User role access assignment
+
+ *   Get menu by user role access
+
+ *   Check menu access by Role access
+
+.NET 7 Full course video link
+==========================
+   • .NET 7.0 Web API Full course with CRU...  
+
+
+
+app password of my gmail 
+
+xppd orrf kkyd vdab
+test it on 
+https://www.gmass.co/smtp-test
